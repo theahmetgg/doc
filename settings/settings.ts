@@ -19,7 +19,7 @@ export const imagealt = "theahmetgg Documentation"
 export const twitterhandle = "@RubixStudios"
 
 export const companyname = "theahmetgg"
-export const companylink = "https://rubixstudios.com.au"
+export const companylink = "https://ahmetgulmez.com.tr/"
 
 export const branding = true
 export const rightsidebar = true
